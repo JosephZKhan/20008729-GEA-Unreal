@@ -1,4 +1,6 @@
 # 20008729-GEA-Unreal
 Unreal deliverable for the Game Engine Architecture Blood? assignment
 
-Built in version 4.27.2
+Built in version 4.27.2.
+
+Scene contains a Material (fluidMaterial) along with a Material Instance (bloodMaterial). Apply the fluidMaterial to a mesh to see the default parameters, and the bloodMaterial to expose the adjustable parameters for customization.
